@@ -1,2 +1,4 @@
 # Tossy-s-Cab
-A greenhand learner on vedio coding
+A example to sort number with C. 
+A example for Tossy myself to upload my code to Github.
+Thanks for reading!
